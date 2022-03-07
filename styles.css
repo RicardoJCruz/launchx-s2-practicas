@@ -1,0 +1,66 @@
+/*
+* {
+    box-sizing: border-box;
+}
+*/
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0ddd9;
+    min-height: 100vh;
+}
+
+.dorado {
+    color: #D99B66;
+}
+
+/* Estilo de header */
+header {
+    background-color: #F25764;
+}
+
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: white;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.muestras {
+    background-color: #b6d5e4;
+}
+
+/* Estilo de footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+#logo {
+    width: 100px;
+}
+
+.placeholder {
+    height: 125px;
+}
+
+/* Responsive layout 
+@media (max-width: 600px) {
+
+    nav,
+    article {
+        width: 100%;
+        height: auto;
+    }
+}
+*/
+
+.logo-footer {
+    width: 50px;
+    height: 50px;;
+}
