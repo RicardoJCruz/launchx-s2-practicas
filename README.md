@@ -1,4 +1,7 @@
 # launchx-s2-practicas
+
+Enlace al sitio web de esta práctica: https://ricardojcruz.github.io/launchx-s2-practicas/
+
 Este repositorio contiene las prácticas de la segunda semanda de la Mision FrontEnd de Launch X.
 
 En esta semana se estudio HTML y las prácticas consistieron en maquetar páginas web en HTML para una pasteleria.
